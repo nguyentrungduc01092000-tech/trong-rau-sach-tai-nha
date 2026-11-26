@@ -1,6 +1,3 @@
-# robots.txt website #6 — Trồng rau sạch tại nhà
-# Tên miền: sunlit.click. Đã xuất bản công khai trên GitHub Pages.
-# Không chặn Google. Không có trang nào bị chặn.
 User-agent: *
 Allow: /
 

@@ -1,8 +1,8 @@
 * { box-sizing: border-box; }
 body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; line-height: 1.7; color: #222; margin: 0; background: #fff; overflow-wrap: break-word; }
-header { background: #2f6b2f; color: #fff; padding: 1rem; }
+header { background: #4d7c0f; color: #fff; padding: 1rem; }
 header a { color: #fff; }
-.site-name { font-size: 1.4rem; font-weight: bold; margin: 0 0 .5rem; }
+.site-name { font-size: 1.4rem; font-weight: bold; margin: 0 0 .5rem; font-family: Georgia, "Times New Roman", serif; letter-spacing: .01em; }
 .site-name a { text-decoration: none; }
 nav a { margin-right: 1rem; display: inline-block; }
 main { max-width: 720px; margin: 0 auto; padding: 1rem; }
@@ -14,7 +14,7 @@ th, td { border: 1px solid #ccc; padding: .4rem .6rem; text-align: left; vertica
 figure { margin: 1.5rem 0; text-align: center; }
 figcaption { font-size: .9rem; color: #555; margin-top: .4rem; }
 footer { border-top: 1px solid #ddd; padding: 1rem; text-align: center; font-size: .9rem; color: #555; }
-footer a { color: #2f6b2f; }
+footer a { color: #4d7c0f; }
 button { font-size: 1rem; padding: .5rem 1rem; cursor: pointer; }
 @media (max-width: 600px) { nav a { display: block; margin: .2rem 0; } }
 @media print { header nav, footer, button { display: none; } main { max-width: 100%; } }
